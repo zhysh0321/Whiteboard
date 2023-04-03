@@ -58,6 +58,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
         ll_undo.setOnClickListener(this);
         ll_redo.setOnClickListener(this);
         ll_eraser.setOnClickListener(this);
+        ll_clear.setOnClickListener(this);
         ll_add.setOnClickListener(this);
         btn_last_page.setOnClickListener(this);
         btn_next_page.setOnClickListener(this);
